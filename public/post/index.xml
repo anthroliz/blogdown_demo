@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://example.org/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Third Post</title>
+      <link>http://example.org/post/2020-12-12-third-post/</link>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/2020-12-12-third-post/</guid>
+      <description>this is the third post after the site has been deployed</description>
+    </item>
+    
+    <item>
+      <title>My first post</title>
+      <link>http://example.org/post/2020-12-09-my-first-post/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/2020-12-09-my-first-post/</guid>
+      <description>This is my first post.
+Written by tutor</description>
+    </item>
+    
+    <item>
+      <title>my second post</title>
+      <link>http://example.org/post/2020-12-09-my-second-post/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/2020-12-09-my-second-post/</guid>
+      <description>  attach(faithful) head(faithful) ## eruptions waiting ## 1 3.600 79 ## 2 1.800 54 ## 3 3.333 74 ## 4 2.283 62 ## 5 4.533 85 ## 6 2.883 55 </description>
+    </item>
+    
+  </channel>
+</rss>
