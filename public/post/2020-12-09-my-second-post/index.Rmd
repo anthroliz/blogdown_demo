@@ -1,0 +1,15 @@
+---
+title: my second post
+author: ''
+date: '2020-12-09'
+slug: []
+categories: []
+tags: []
+---
+
+
+```{r}
+attach(faithful)
+head(faithful)
+```
+
